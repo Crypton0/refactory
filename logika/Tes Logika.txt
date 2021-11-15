@@ -1,0 +1,80 @@
+#####  Logic Tes  #####
+-----------------------
+
+1. Palindrom
+
+Lakukan penelitian untuk apa itu. Kemudian buat fungsi yang akan mengembalikan true atau false untuk memeriksa apakah itu palindrome.
+
+Contoh uji:
+
+Radar                 # --> palindrome
+Malam                 # --> palindrome
+Kasur ini rusak       # --> palindrome
+Ibu Ratna antar ubi   # --> palindrome
+Malas                 # --> not palindrome
+Makan nasi goreng     # --> not palindrome
+Balonku ada lima      # --> not palindrome
+
+===============================================================================
+2. Leap Year
+
+Temukan daftar tahun kabisat dari rentang antara 2 input. Contoh: input pengguna 1900 dan 2020, maka program akan memberikan output:
+
+1904, 1908, 1912, 1916, 1920, 1924, 1928, 1932, 1936, 1940, 1944, 1948, 1952, 1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020
+
+===============================================================================
+3. Reverse Word
+
+Buat fungsi yang menerima input dan akan memberikan output:
+
+Balikkan setiap kata dari ini:
+
+  "I am A Great human"
+menjadi
+  "I ma A Taerg namuh"
+
+// catatan: amati perilaku huruf Kapital
+
+===============================================================================
+4. Nearest Fibonancci
+
+Berfungsi untuk mencari bilangan Fibonacci terdekat, yang parameternya adalah array.
+
+Contoh:
+
+arr = [15,1,3]
+
+
+maka program Anda harus membuat **output = 2**
+
+Karena dengan contoh input di atas **[15,1,3]**, jika kita menjumlahkannya akan menjadi **15+1+3 = 19**, dan **fibonacci terdekat dari 19 adalah 21**, jadi kita perlu **menambahkan 2 agar bisa menjadi 21**.
+===============================================================================
+5. FizzBuzz
+
+Diberikan integer n, kembalikan jawaban array string (1-diindeks) di mana:
+
+answer[i] == "FizzBuzz" // jika i habis dibagi 3 dan 5.
+answer[i] == "Fizz" // jika i habis dibagi 3.
+answer[i] == "Buzz" // jika i habis dibagi 5.
+answer[i] == i // jika tidak ada kondisi di atas yang benar.
+
+**Contoh Output yang Diharapkan:**
+
+//Contoh 1
+Masukan: n = 3
+Keluaran: ["1", "2", "Fizz"]
+
+// Contoh 2
+Masukan: n = 5
+Keluaran: ["1", "2", "Fizz", "4", "Buzz"]
+
+// Contoh 3
+Masukan: n = 15
+Keluaran: ["1", "2", "Fizz", "4", "Buzz", "Fizz", "7", "8", "Fizz", "Buzz", "11", "Fizz" ,"13","14",,"FizzBuzz"]
+
+===============================================================================
+
+
+
+
+
