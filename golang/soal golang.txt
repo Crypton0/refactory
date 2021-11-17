@@ -1,0 +1,6 @@
+**Golang Engineer**
+
+- Buat sebuah login endpoint yang menggunakan implementasi oauth dengan provider google atau facebook (pilih salah satu).
+- Buat endpoint untuk get data informasi user yang login dari google atau facebook.
+- Setelah semua aplikasi selesai, buat diagram database, schema database dan penjelasan alur aplikasi.
+- Akan ada nilai plus jika aplikasi ini di dockerize dan implement CI/CD (Optional).
