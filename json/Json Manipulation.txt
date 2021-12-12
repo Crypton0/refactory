@@ -1,7 +1,0 @@
-Tugas Anda untuk membuat fungsi:
-
-1. Temukan item di Ruang Rapat.
-2. Temukan semua perangkat elektronik.
-3. Temukan semua perabotan.
-4. Temukan semua barang yang dibeli pada 16 Januari 2020.
-5. Temukan semua item dengan warna coklat.
