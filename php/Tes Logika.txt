@@ -7,13 +7,13 @@ Lakukan penelitian untuk apa itu. Kemudian buat fungsi yang akan mengembalikan t
 
 Contoh uji:
 
-Radar                 # --> palindrome
-Malam                 # --> palindrome
-Kasur ini rusak       # --> palindrome
-Ibu Ratna antar ubi   # --> palindrome
-Malas                 # --> not palindrome
-Makan nasi goreng     # --> not palindrome
-Balonku ada lima      # --> not palindrome
+Radar Â  Â  Â  Â  Â  Â  Â  Â  # --> palindrome
+Malam Â  Â  Â  Â  Â  Â  Â  Â  # --> palindrome
+Kasur ini rusak Â  Â  Â  # --> palindrome
+Ibu Ratna antar ubi Â  # --> palindrome
+Malas Â  Â  Â  Â  Â  Â  Â  Â  # --> not palindrome
+Makan nasi goreng Â  Â  # --> not palindrome
+Balonku ada limaÂ  Â  Â  # --> not palindrome
 
 ===============================================================================
 2. Leap Year
@@ -45,9 +45,9 @@ Contoh:
 arr = [15,1,3]
 
 
-maka program Anda harus membuat **output = 2**
+maka program Anda harus membuatÂ **output = 2**
 
-Karena dengan contoh input di atas **[15,1,3]**, jika kita menjumlahkannya akan menjadi **15+1+3 = 19**, dan **fibonacci terdekat dari 19 adalah 21**, jadi kita perlu **menambahkan 2 agar bisa menjadi 21**.
+Karena dengan contoh input di atas **[15,1,3]**, jika kita menjumlahkannya akan menjadi **15+1+3 = 19**, danÂ **fibonacci terdekat dari 19 adalah 21**, jadi kita perluÂ **menambahkan 2 agar bisa menjadi 21**.
 ===============================================================================
 5. FizzBuzz
 
